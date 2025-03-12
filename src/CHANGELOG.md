@@ -1,5 +1,11 @@
 # viem
 
+## 2.23.11
+
+### Patch Changes
+
+- [`3630c338b633654106affed2926bacc91806d6b0`](https://github.com/wevm/viem/commit/3630c338b633654106affed2926bacc91806d6b0) Thanks [@0xxlegolas](https://github.com/0xxlegolas)! - Added pyrope to chain definitions
+
 ## 2.23.10
 
 ### Patch Changes
