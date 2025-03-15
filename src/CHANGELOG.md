@@ -1,5 +1,11 @@
 # viem
 
+## 2.23.11
+
+### Patch Changes
+
+- [#3438](https://github.com/wevm/viem/pull/3438) [`3630c338b633654106affed2926bacc91806d6b0`](https://github.com/wevm/viem/commit/3630c338b633654106affed2926bacc91806d6b0) Thanks [@0xxlegolas](https://github.com/0xxlegolas)! - Added Pyrope chain.
+
 ## 2.23.10
 
 ### Patch Changes
